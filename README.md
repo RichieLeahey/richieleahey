@@ -2,6 +2,12 @@
 
 **Web and Mobile Applications Developer at NC State University**
 
+### 👨‍💻 About Me
+- 🌱 I’m currently focused on **Generative AI, ReactJS, and Web Accessibility**.
+- 🎓 Master of Science in **Computer Science**.
+- 💬 Ask me about **Web Development, Mobile Applications, and JavaScript/React**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richieleahey/)
+
 <!--
 Here are some ideas to get you started:
 
