@@ -13,44 +13,15 @@
 
 ### Mount Aloysius College
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Course Code</th>
-      <th align="left">Course Name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>CSIT 226</strong></td>
-      <td>PC Operating Systems</td>
-    </tr>
-    <tr>
-      <td><strong>CSIT 270</strong></td>
-      <td>Machine Minds: How AI Learns From Data</td>
-    </tr>
-    <tr>
-      <td><strong>CSIT 281</strong></td>
-      <td>JavaScript</td>
-    </tr>
-    <tr>
-      <td><strong>CSIT 360</strong></td>
-      <td>Web Programming I</td>
-    </tr>
-    <tr>
-      <td><strong>CSIT 365</strong></td>
-      <td>Web Programming II</td>
-    </tr>
-    <tr>
-      <td><strong>CSIT 381</strong></td>
-      <td>Game Development</td>
-    </tr>
-    <tr>
-      <td><strong>MSDF 500</strong></td>
-      <td>Information Technology for The Investigator</td>
-    </tr>
-  </tbody>
-</table>
+| Course Code | Course Name |
+| :--- | :--- |
+| **CSIT 226** | PC Operating Systems |
+| **CSIT 270** | Machine Minds: How AI Learns From Data |
+| **CSIT 281** | JavaScript |
+| **CSIT 360** | Web Programming I |
+| **CSIT 365** | Web Programming II |
+| **CSIT 381** | Game Development |
+| **MSDF 500** | Information Technology for The Investigator |
 
 ### YTI Career Institute
 
