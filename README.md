@@ -13,6 +13,8 @@
 
 #### Mount Aloysius College
 
+
+| :--- | :--- |
 | Course Code | Course Name |
 | **CSIT 226** | PC Operating Systems |
 | **CSIT 270** | Machine Minds: How AI Learns From Data |
@@ -24,6 +26,7 @@
 
 #### YTI Career Institute 
 
+| :--- | :--- |
 | Course Code | Course Name |
 | **CS 1140** | Operating Systems I |
 | **CS 1151** | Computer Software Applications |
