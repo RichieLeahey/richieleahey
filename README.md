@@ -2,50 +2,140 @@
 
 **Web and Mobile Applications Developer at NC State University**
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🌱 I’m currently focused on **Generative AI, ReactJS, and Web Accessibility**.
 - 🎓 Master of Science in **Computer Science**.
 - 💬 Ask me about **Web Development, Mobile Applications, and JavaScript/React**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richieleahey/)
 
 
-### 👨‍🏫 Teaching Experience
+## 👨‍🏫 Teaching Experience
 
-#### Mount Aloysius College
+### Mount Aloysius College
 
+<table>
+  <thead>
+    <tr>
+      <th align="left">Course Code</th>
+      <th align="left">Course Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CSIT 226</strong></td>
+      <td>PC Operating Systems</td>
+    </tr>
+    <tr>
+      <td><strong>CSIT 270</strong></td>
+      <td>Machine Minds: How AI Learns From Data</td>
+    </tr>
+    <tr>
+      <td><strong>CSIT 281</strong></td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td><strong>CSIT 360</strong></td>
+      <td>Web Programming I</td>
+    </tr>
+    <tr>
+      <td><strong>CSIT 365</strong></td>
+      <td>Web Programming II</td>
+    </tr>
+    <tr>
+      <td><strong>CSIT 381</strong></td>
+      <td>Game Development</td>
+    </tr>
+    <tr>
+      <td><strong>MSDF 500</strong></td>
+      <td>Information Technology for The Investigator</td>
+    </tr>
+  </tbody>
+</table>
 
-| :--- | :--- |
-| Course Code | Course Name |
-| **CSIT 226** | PC Operating Systems |
-| **CSIT 270** | Machine Minds: How AI Learns From Data |
-| **CSIT 281** | JavaScript |
-| **CSIT 360** | Web Programming I |
-| **CSIT 365** | Web Programming II |
-| **CSIT 381** | Game Development |
-| **MSDF 500** | Information Technology for The Investigator |
+### YTI Career Institute
 
-#### YTI Career Institute 
-
-| :--- | :--- |
-| Course Code | Course Name |
-| **CS 1140** | Operating Systems I |
-| **CS 1151** | Computer Software Applications |
-| **CS 1221** | Operating Systems II |
-| **CS 1230** | Essentials of Networking |
-| **CS 1340** | Web Page Fundamentals |
-| **CS 1355** | Cisco Routing |
-| **CS 1361** | Advanced Operating Systems |
-| **CS 2510** | Database Management |
-| **CS 2521** | Fundamentals of Help Desk Support |
-| **CS 2530** | Introduction to Computer Security |
-| **CS 2535** | Data Communications |
-| **CS 2611** | Project Management |
-| **CS 2620** | Introduction to Programming |
-| **EX 3000** | Externship Supervisor |
-| **GS 1799** | Computer Mathematics |
-| **GS 1832** | Oral Communications for the IT Professional |
-| **GS 1881** | Ethics/Issues in the Workplace |
-| **GS 1934** | Written Technical Communications |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Course Code</th>
+      <th align="left">Course Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CS 1140</strong></td>
+      <td>Operating Systems I</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1151</strong></td>
+      <td>Computer Software Applications</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1221</strong></td>
+      <td>Operating Systems II</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1230</strong></td>
+      <td>Essentials of Networking</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1340</strong></td>
+      <td>Web Page Fundamentals</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1355</strong></td>
+      <td>Cisco Routing</td>
+    </tr>
+    <tr>
+      <td><strong>CS 1361</strong></td>
+      <td>Advanced Operating Systems</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2510</strong></td>
+      <td>Database Management</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2521</strong></td>
+      <td>Fundamentals of Help Desk Support</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2530</strong></td>
+      <td>Introduction to Computer Security</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2535</strong></td>
+      <td>Data Communications</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2611</strong></td>
+      <td>Project Management</td>
+    </tr>
+    <tr>
+      <td><strong>CS 2620</strong></td>
+      <td>Introduction to Programming</td>
+    </tr>
+    <tr>
+      <td><strong>EX 3000</strong></td>
+      <td>Externship Supervisor</td>
+    </tr>
+    <tr>
+      <td><strong>GS 1799</strong></td>
+      <td>Computer Mathematics</td>
+    </tr>
+    <tr>
+      <td><strong>GS 1832</strong></td>
+      <td>Oral Communications for the IT Professional</td>
+    </tr>
+    <tr>
+      <td><strong>GS 1881</strong></td>
+      <td>Ethics/Issues in the Workplace</td>
+    </tr>
+    <tr>
+      <td><strong>GS 1934</strong></td>
+      <td>Written Technical Communications</td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 Here are some ideas to get you started:
